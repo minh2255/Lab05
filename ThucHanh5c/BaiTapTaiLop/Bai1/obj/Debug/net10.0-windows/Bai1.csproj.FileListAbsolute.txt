@@ -1,0 +1,17 @@
+C:\Users\Hp\source\repos\Lab05\ThucHanh5c\BaiTapTaiLop\Bai1\bin\Debug\net10.0-windows\Bai1.exe
+C:\Users\Hp\source\repos\Lab05\ThucHanh5c\BaiTapTaiLop\Bai1\bin\Debug\net10.0-windows\Bai1.deps.json
+C:\Users\Hp\source\repos\Lab05\ThucHanh5c\BaiTapTaiLop\Bai1\bin\Debug\net10.0-windows\Bai1.runtimeconfig.json
+C:\Users\Hp\source\repos\Lab05\ThucHanh5c\BaiTapTaiLop\Bai1\bin\Debug\net10.0-windows\Bai1.dll
+C:\Users\Hp\source\repos\Lab05\ThucHanh5c\BaiTapTaiLop\Bai1\bin\Debug\net10.0-windows\Bai1.pdb
+C:\Users\Hp\source\repos\Lab05\ThucHanh5c\BaiTapTaiLop\Bai1\obj\Debug\net10.0-windows\NNLTCSharpBaiTapTaiLop.Bai1.Form1.resources
+C:\Users\Hp\source\repos\Lab05\ThucHanh5c\BaiTapTaiLop\Bai1\obj\Debug\net10.0-windows\Bai1.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Lab05\ThucHanh5c\BaiTapTaiLop\Bai1\obj\Debug\net10.0-windows\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Lab05\ThucHanh5c\BaiTapTaiLop\Bai1\obj\Debug\net10.0-windows\Bai1.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Lab05\ThucHanh5c\BaiTapTaiLop\Bai1\obj\Debug\net10.0-windows\Bai1.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Lab05\ThucHanh5c\BaiTapTaiLop\Bai1\obj\Debug\net10.0-windows\Bai1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Lab05\ThucHanh5c\BaiTapTaiLop\Bai1\obj\Debug\net10.0-windows\Bai1.dll
+C:\Users\Hp\source\repos\Lab05\ThucHanh5c\BaiTapTaiLop\Bai1\obj\Debug\net10.0-windows\refint\Bai1.dll
+C:\Users\Hp\source\repos\Lab05\ThucHanh5c\BaiTapTaiLop\Bai1\obj\Debug\net10.0-windows\Bai1.pdb
+C:\Users\Hp\source\repos\Lab05\ThucHanh5c\BaiTapTaiLop\Bai1\obj\Debug\net10.0-windows\Bai1.genruntimeconfig.cache
+C:\Users\Hp\source\repos\Lab05\ThucHanh5c\BaiTapTaiLop\Bai1\obj\Debug\net10.0-windows\ref\Bai1.dll
+C:\Users\Hp\source\repos\Lab05\ThucHanh5c\BaiTapTaiLop\Bai1\obj\Debug\net10.0-windows\Bai1.csproj.Up2Date

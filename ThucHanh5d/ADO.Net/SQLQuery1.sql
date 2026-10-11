@@ -1,0 +1,39 @@
+CREATE DATABASE QLSINHVIEN;
+GO
+USE QLSINHVIEN;
+GO
+
+CREATE TABLE Khoa (
+    MaKhoa VARCHAR(10) PRIMARY KEY,
+    TenKhoa NVARCHAR(50)
+);
+
+CREATE TABLE Lop (
+    MaLop VARCHAR(10) PRIMARY KEY,
+    TenLop NVARCHAR(50),
+    MaKhoa VARCHAR(10),
+    FOREIGN KEY (MaKhoa) REFERENCES Khoa(MaKhoa)
+);
+
+CREATE TABLE SinhVien (
+    MaSinhVien VARCHAR(10) PRIMARY KEY,
+    HoTen NVARCHAR(50),
+    NgaySinh DATE,
+    MaLop VARCHAR(10),
+    FOREIGN KEY (MaLop) REFERENCES Lop(MaLop)
+);
+
+CREATE TABLE MonHoc (
+    MaMonHoc VARCHAR(10) PRIMARY KEY,
+    TenMonHoc NVARCHAR(50)
+);
+
+CREATE TABLE Diem (
+    MaSinhVien VARCHAR(10),
+    MaMonHoc VARCHAR(10),
+    Diem FLOAT,
+    PRIMARY KEY (MaSinhVien, MaMonHoc),
+    FOREIGN KEY (MaSinhVien) REFERENCES SinhVien(MaSinhVien),
+    FOREIGN KEY (MaMonHoc) REFERENCES MonHoc(MaMonHoc)
+);
+

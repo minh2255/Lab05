@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>BaiTapVeNha_Bai2</AssemblyName>
+    <RootNamespace>NNLTCSharpBaiTapVeNha.Bai2</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="7.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\BaiTapTaiLop\Bai1\Bai1.csproj" />
+    <ProjectReference Include="..\..\BaiTapTaiLop\Bai2\Bai2.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,38 @@
+<Solution>
+  <Folder Name="/ThucHanh5c/" />
+  <Folder Name="/ThucHanh5c/BaiTapNangCao/">
+    <Project Path="../ThucHanh5c/BaiTapNangCao/Bai1/Bai1.csproj" />
+  </Folder>
+  <Folder Name="/ThucHanh5c/BaiTapTaiLop/">
+    <Project Path="../ThucHanh5c/BaiTapTaiLop/Bai1/Bai1.csproj" />
+    <Project Path="../ThucHanh5c/BaiTapTaiLop/Bai2/Bai2.csproj" />
+  </Folder>
+  <Folder Name="/ThucHanh5c/BaiTapVeNha/">
+    <Project Path="../ThucHanh5c/BaiTapVeNha/Bai1/Bai1.csproj" />
+    <Project Path="../ThucHanh5c/BaiTapVeNha/Bai2/Bai2.csproj" />
+    <Project Path="../ThucHanh5c/BaiTapVeNha/Bai3/Bai3.csproj" />
+  </Folder>
+  <Folder Name="/ThucHanh5d/" />
+  <Folder Name="/ThucHanh5d/ADO.Net/" />
+  <Folder Name="/ThucHanh5d/ADO.Net/BaiTapNangCao/">
+    <Project Path="../ThucHanh5d/ADO.Net/BaiTapNangCao/Bai1/Bai1.csproj" />
+    <Project Path="../ThucHanh5d/ADO.Net/BaiTapNangCao/Bai2/Bai2.csproj" />
+  </Folder>
+  <Folder Name="/ThucHanh5d/ADO.Net/BaiTapTaiLop/">
+    <Project Path="../ThucHanh5d/ADO.Net/BaiTapTaiLop/Bai1/Bai1.csproj" />
+  </Folder>
+  <Folder Name="/ThucHanh5d/ADO.Net/BaiTapVeNha/">
+    <Project Path="../ThucHanh5d/ADO.Net/BaiTapVeNha/Bai1/Bai1.csproj" />
+  </Folder>
+  <Folder Name="/ThucHanh5d/BaiTapNangCao/">
+    <Project Path="../ThucHanh5d/BaiTapNangCao/Bai1/Bai1.csproj" />
+  </Folder>
+  <Folder Name="/ThucHanh5d/BaiTapTaiLop/">
+    <Project Path="../ThucHanh5d/BaiTapTaiLop/Bai1/Bai1.csproj" />
+    <Project Path="../ThucHanh5d/BaiTapTaiLop/Bai2/Bai2.csproj" />
+  </Folder>
+  <Folder Name="/ThucHanh5d/BaiTapVeNha/">
+    <Project Path="../ThucHanh5d/BaiTapVeNha/Bai1/Bai1.csproj" />
+    <Project Path="../ThucHanh5d/BaiTapVeNha/Bai2/Bai2.csproj" />
+  </Folder>
+</Solution>
